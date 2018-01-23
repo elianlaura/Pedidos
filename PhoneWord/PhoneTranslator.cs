@@ -36,9 +36,9 @@ namespace Core
         {
             if ("ABC".Contains(c))
                 return 2;
-            else if ("DEF".Contains(c))
+            else if ("DEFG".Contains(c))
                 return 3;
-            else if ("GHI".Contains(c))
+            else if ("HI".Contains(c))
                 return 4;
             else if ("JKL".Contains(c))
                 return 5;
